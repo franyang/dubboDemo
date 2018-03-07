@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class TestController {
 
     @Autowired
-    private TestServerImpl testServer;
+    private TestServer testServer;
 
     @RequestMapping("/")
     @ResponseBody

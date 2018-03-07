@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class TestServerImpl implements TestServer {
+    @Override
     public String getTest(){
         return "hello dubbo";
     }
