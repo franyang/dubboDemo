@@ -27,7 +27,7 @@
         <java.sql.version>5.1.13</java.sql.version>
         <commons.lang.version>2.6</commons.lang.version>
         <commons.lang3.version>3.5</commons.lang3.version>
-        <commons.collections.version>3.2.1</commons.collections.version>
+        <commons.collections.version>3.2.2</commons.collections.version>
         <log4j.version>1.2.17</log4j.version>
         <slf4j.version>1.7.5</slf4j.version>
         <logback.ext.spring.version>0.1.1</logback.ext.spring.version>
