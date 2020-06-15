@@ -21,7 +21,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <spring.version>4.2.6.RELEASE</spring.version>
-        <spring.core.version>4.2.6.RELEASE</spring.core.version>
+        <spring.core.version>4.3.19.RELEASE</spring.core.version>
         <aspectj.version>1.8.4</aspectj.version>
         <common.support>1.0-SNAPSHOT</common.support>
         <java.sql.version>5.1.13</java.sql.version>
