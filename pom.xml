@@ -85,7 +85,7 @@
         <com.thoughtworks.xstream.version>1.4.3</com.thoughtworks.xstream.version>
         <xerces.xercesImpl.version>2.8.1</xerces.xercesImpl.version>
         <thumbnailator.version>0.4.2</thumbnailator.version>
-        <quartz.scheduler.version>2.2.3</quartz.scheduler.version>
+        <quartz.scheduler.version>2.3.2</quartz.scheduler.version>
         <disconf-client.version>2.6.36</disconf-client.version>
         <alibaba.dubbo.version>2.5.3</alibaba.dubbo.version>
 
