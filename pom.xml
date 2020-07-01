@@ -24,7 +24,7 @@
         <spring.core.version>4.2.6.RELEASE</spring.core.version>
         <aspectj.version>1.8.4</aspectj.version>
         <common.support>1.0-SNAPSHOT</common.support>
-        <java.sql.version>5.1.13</java.sql.version>
+        <java.sql.version>8.0.16</java.sql.version>
         <commons.lang.version>2.6</commons.lang.version>
         <commons.lang3.version>3.5</commons.lang3.version>
         <commons.collections.version>3.2.1</commons.collections.version>
