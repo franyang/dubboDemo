@@ -67,7 +67,7 @@
         <springAmqp.version>1.4.5.RELEASE</springAmqp.version>
 
         <validation.api.version>1.1.0.Final</validation.api.version>
-        <hibernate.validator.version>5.2.4.Final</hibernate.validator.version>
+        <hibernate.validator.version>5.3.6.Final</hibernate.validator.version>
         <javax.el.version>2.2.4</javax.el.version>
         <reflectasm.version>1.09</reflectasm.version>
 
