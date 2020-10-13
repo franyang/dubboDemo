@@ -58,7 +58,7 @@
         <druid.version>1.0.12</druid.version>
         <morphia.version>1.2.1</morphia.version>
         <morphia.driver.version>3.3.0</morphia.driver.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <guava.version>18.0</guava.version>
         <alibaba.dubbo.version>2.5.3</alibaba.dubbo.version>
         <zkclient.version>0.1</zkclient.version>
