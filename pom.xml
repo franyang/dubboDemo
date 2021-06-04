@@ -47,7 +47,7 @@
         <commons.codec.version>1.8</commons.codec.version>
         <commons.dbcp.version>1.2.2</commons.dbcp.version>
         <commons.beanutils.version>1.9.2</commons.beanutils.version>
-        <apache.httpclient.version>4.4.1</apache.httpclient.version>
+        <apache.httpclient.version>4.5.13</apache.httpclient.version>
         <!-- 		<dom4j.version>2.0.0-RC1</dom4j.version> -->
         <dom4j.version>1.6.1</dom4j.version>
         <mybatis.version>3.4.0</mybatis.version>
